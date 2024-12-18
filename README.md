@@ -127,6 +127,21 @@ Senior engineer with 7+ years of experience building up web & mobile app and blo
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 <br>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattboy-git&layout=compact&theme=transparent" alt=pattboy-git />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pattboy-git&show_icons=true&locale=en&theme=transparent" alt="pattboy-git" /></p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/ThecoderPinar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattboy-git&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pattboy-git&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattboy-git&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pattboy-git&theme=2077" height="180em" />
+</div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pattboy-git&theme=synthwave-84"/>
