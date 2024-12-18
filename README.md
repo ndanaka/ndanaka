@@ -71,18 +71,19 @@
   
 </p>
 
-- 👈 I have expertise in smart contract and web3 integration.  
+- 👈 Excellent problem-solving and analytical skills
   
 
-- 👀 I’m interested in blockchain with Python & Golang world.  
+- 👀 Strong communication and interpersonal abilities 
   
 
-- 🌱 Passionate about development and coding.  
+- 🌱 Team player with leadership qualities
   
 
-- 💞️ I’m looking to collaborate on Blockchain/Artificial Intelligence development.  
+- 💞️ Adaptable and quick learner
 
-- ⭐ Everyone say that I was born for Flutter and React Native for android & iOS.
+
+- ⭐ Detail-oriented and organized
 
 <h2 align="center">⚡ Stats</h2>
 
