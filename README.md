@@ -67,7 +67,6 @@
     <img height="40px" src="Images/Static/discord.png" title="Discord">
   </a> -->
 
-  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   
 </p>
 
