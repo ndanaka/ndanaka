@@ -23,12 +23,12 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 </div>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+<!--   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Blockchain+Engineer;Senior+Web3+Engineer;Senior+NFT+Engineer;Senior+Solana+Engineer;Senior+Full-Stack+Engineer&center=true&size=28&color=ff8a65">
-  </a>
+  </a> -->
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Solana+Engineer;Senior+NFT+Engineer;Senior+Web3+Engineer;Senior+Blockchain+Engineer;Senior+Full-Stack+Engineer&center=true&size=28&color=54AEFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer;Back-End+Engineer;Front-End+Developer&center=true&size=28&color=54AEFF">
   </a>
 </h1>
 
