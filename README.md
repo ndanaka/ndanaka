@@ -1,6 +1,17 @@
-# My GitHub Profile
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer;Back-End+Engineer;Front-End+Developer&center=true&size=28&color=54AEFF">
+  </a>
+</h1>
 
-## Technologies I Work With
+## About Me
+
+Senior engineer with 7+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
+Unfortunately, many of the projects I have worked on are private. However, I believe my public GitHub repositories will provide a clear understanding of my skills and experience. 
+Please feel free to browse through them at your convenience.
+
+
+## Languages and Tool
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
@@ -23,127 +34,31 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 </div>
-<h1 align="center">
-<!--   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Blockchain+Engineer;Senior+Web3+Engineer;Senior+NFT+Engineer;Senior+Solana+Engineer;Senior+Full-Stack+Engineer&center=true&size=28&color=ff8a65">
-  </a> -->
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;Senior+Full-Stack+Engineer;Blockchain+Developer;Back-End+Engineer;Front-End+Developer&center=true&size=28&color=54AEFF">
-  </a>
-</h1>
-
-<p align="center">
-
-  <!-- <a href="#">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a> -->
-
-  <!-- <a href="https://Tarun-Kamboj.github.io">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/kambojtarun">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
-  </a>
-  <a href="mailto:kambojtarun02@gmail.com">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
-  </a>
-  <a href="https://twitter.com/TarunKamboj_">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
-  </a>
-  <a href="https://discord.com/users/724826268645851157">
-    <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a> -->
-
-  
-</p>
-
-- 👈 Excellent problem-solving and analytical skills
-  
-
-- 👀 Strong communication and interpersonal abilities 
-  
-
-- 🌱 Team player with leadership qualities
-  
-
-- 💞️ Adaptable and quick learner
-
-
-- ⭐ Detail-oriented and organized
+<br>
 
 <h2 align="center">⚡ Stats</h2>
 
-<!-- <p align=center> -->
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> --> 
-<!-- </p> -->
-<div class="d-block", align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndanaka&theme=gitdimmed&column=10" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+<div align="center">
+    <a href="https://github.com/ndanaka"><img src="https://komarev.com/ghpvc/?username=ndanaka&color=brightgreen&style=for-the-badge"/><a/>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/shinevue/shinevue?style=for-the-badge&color=brightgreen"/></a>
 </div>
   
-## About
 
-Senior engineer with 7+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
-
-
-## Languages and Tool
-
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/phantom0109/)
-[![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 <br>
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattboy-git&layout=compact&theme=transparent" alt=pattboy-git />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pattboy-git&show_icons=true&locale=en&theme=transparent" alt="pattboy-git" /></p>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ThecoderPinar">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattboy-git&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pattboy-git&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattboy-git&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pattboy-git&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndanaka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndanaka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndanaka&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndanaka&theme=2077" height="180em" />
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pattboy-git&theme=synthwave-84"/>
-<br>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ndanaka&theme=synthwave-84"/>
+
 
