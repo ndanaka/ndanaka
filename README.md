@@ -52,7 +52,7 @@ Please feel free to browse through them at your convenience.
 <h2 align="center">⚡ Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ndanaka&theme=gitdimmed&column=10" />
+    <a href="https://github.com/ndanaka"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndanaka&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
 <div align="center">
@@ -64,14 +64,14 @@ Please feel free to browse through them at your convenience.
 <br>
 
 <div align="center">
-<a href="https://github.com/ThecoderPinar">
+<a href="https://github.com/ndanaka">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndanaka&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndanaka&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndanaka&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndanaka&theme=2077" height="180em" />
 </div>
 <br>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ndanaka&theme=synthwave-84"/> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ndanaka&theme=synthwave-84"/>
 
 
